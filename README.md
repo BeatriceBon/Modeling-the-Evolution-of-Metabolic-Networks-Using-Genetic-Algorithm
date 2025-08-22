@@ -1,4 +1,10 @@
 # Modeling the Evolution of Metabolic Networks Using a Genetic Algorithm
+
+<p align="center">
+  <img src="images/Stoichiometric_matrices_adaptation.png" alt="Patients Flow in ED" width="1000"/>
+</p>
+
+
 The objective was to investigate whether it's possible to find an evolutionary pathway between two different organisms with distinct metabolites and reactions using a Genetic algorithm.
 
 
